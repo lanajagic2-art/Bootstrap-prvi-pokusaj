@@ -1,0 +1,12 @@
+body, h1{
+    background-color: black;
+    color:white;
+}
+.card{
+    background-color: black;
+    color:white;
+    border-color: rgb(108, 1, 180);
+}
+.navbar{
+    background-color: rgb(58, 9, 103)!important;
+}
